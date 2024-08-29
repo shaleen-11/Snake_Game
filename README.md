@@ -1,7 +1,6 @@
 # Snake_Game
 
-
-
+[Watch the Gameplay Video](https://github.com/shaleen-11/Snake_Game/blob/main/Gameplay_video.mp4)
 
 This is a simple Snake game developed using C++ and object-oriented programming concepts. The game runs in the terminal, where players control a snake to eat food, grow in length, and avoid collisions with itself. The game displays the live score and ends when the snake collides with itself.
 
